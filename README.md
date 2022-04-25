@@ -52,3 +52,5 @@ bypass:
   - "*.xunlei.com"
   - "*.iqiyipic.com"
   - "*.microsoft.com"
+  - "*.twigscience.com"
+  - "*.twigeducation.cn"
