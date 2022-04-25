@@ -1,6 +1,5 @@
 # ClashBypassConfig  持续更新
-Clash 过滤白名单
-
+# Clash 过滤白名单
 bypass:
   - localhost
   - 127.*
