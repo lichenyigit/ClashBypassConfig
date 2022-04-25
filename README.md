@@ -1,4 +1,4 @@
-# ClashBypassConfig
+# ClashBypassConfig  持续更新
 Clash 过滤白名单
 
 bypass:
