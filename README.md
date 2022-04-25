@@ -51,3 +51,4 @@ bypass:
   - "*.5dy5.cc"
   - "*.xunlei.com"
   - "*.iqiyipic.com"
+  - "*.microsoft.com"
