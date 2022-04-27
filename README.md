@@ -33,6 +33,8 @@ bypass:
   - "*.github.com"
   - "*.douyin.com"
   - "*.taobao.com"
+  - "*.*.taobao.com"
+  - "*.alipay.com"
   - "*.jd.com"
   - "*.aluahiya.com"
   - "*.caixin.com"
@@ -46,7 +48,7 @@ bypass:
   - "*.google.cn"
   - "*.url.cn"
   - "*.unity.cn"
-  - "*.unity.com"
+  # - "*.unity.com"
   - "*.o8tv.com"
   - "*.5dy5.cc"
   - "*.xunlei.com"
@@ -55,7 +57,7 @@ bypass:
   - "*.twigscience.com"
   - "*.twigeducation.cn"
   - "*.gvt2.com"
-  - "*.gtimg.com" #腾讯开始
+  - "*.gtimg.com" #腾讯 start
   - "*.gtimg.cn"
   - "*.qpic.cn"
   - "*.idqqimg.com"
@@ -63,11 +65,19 @@ bypass:
   - "*.bdstatic.com"
   - "*.qlogo.cn"
   - "*.qqmail.com"
-  - "*.tencent.com" #腾讯结束
+  - "*.tencent.com" #腾讯 end
   - "*.cdn-go.cn"
   - "*.nnyy6.top"
   - "*.smtcdns.com"
   - "*.live.com"
+  - "*.*.live.com"
+  - "*.storage.live.com"
   - "*.onedrive.com"
   - "*.binttech.com"
   - "*.aliyuncs.com"
+  - "*.aliyun.com"
+  - "*.ximalaya.com"
+  - "*.pttplay.cc"
+  - "*.xmcdn.com" #喜马拉雅 start
+  - "vod.ali.xmcdn.com"
+  - "*.ali.xmcdn.com" #喜马拉雅 end
