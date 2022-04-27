@@ -83,3 +83,5 @@ bypass:
   - "*.ali.xmcdn.com"
   - "*.6r9.net"
   - "*.xiaohongshu.com"
+  - "*.kuaibocaiji.com"
+  - "*.szjal.cn"
