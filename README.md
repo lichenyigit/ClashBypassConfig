@@ -48,7 +48,6 @@ bypass:
   - "*.google.cn"
   - "*.url.cn"
   - "*.unity.cn"
-  # - "*.unity.com"
   - "*.o8tv.com"
   - "*.5dy5.cc"
   - "*.xunlei.com"
