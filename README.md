@@ -82,3 +82,4 @@ bypass:
   - "vod.ali.xmcdn.com"
   - "*.ali.xmcdn.com"
   - "*.6r9.net"
+  - "*.xiaohongshu.com"
