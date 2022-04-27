@@ -48,6 +48,7 @@ bypass:
   - "*.google.cn"
   - "*.url.cn"
   - "*.unity.cn"
+  # - "*.unity.com"
   - "*.o8tv.com"
   - "*.5dy5.cc"
   - "*.xunlei.com"
@@ -56,7 +57,7 @@ bypass:
   - "*.twigscience.com"
   - "*.twigeducation.cn"
   - "*.gvt2.com"
-  - "*.gtimg.com" #腾讯 start
+  - "*.gtimg.com"
   - "*.gtimg.cn"
   - "*.qpic.cn"
   - "*.idqqimg.com"
@@ -64,7 +65,7 @@ bypass:
   - "*.bdstatic.com"
   - "*.qlogo.cn"
   - "*.qqmail.com"
-  - "*.tencent.com" #腾讯 end
+  - "*.tencent.com"
   - "*.cdn-go.cn"
   - "*.nnyy6.top"
   - "*.smtcdns.com"
@@ -77,6 +78,7 @@ bypass:
   - "*.aliyun.com"
   - "*.ximalaya.com"
   - "*.pttplay.cc"
-  - "*.xmcdn.com" #喜马拉雅 start
+  - "*.xmcdn.com"
   - "vod.ali.xmcdn.com"
-  - "*.ali.xmcdn.com" #喜马拉雅 end
+  - "*.ali.xmcdn.com"
+  - "*.6r9.net"
