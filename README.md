@@ -1,4 +1,4 @@
-# ClashBypassConfig  持续更新
+# ClashBypassConfig  持续更新 在编辑状态下，复制全部内容即可使用
 # Clash 过滤白名单
 bypass:
   - localhost
