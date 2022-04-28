@@ -85,3 +85,4 @@ bypass:
   - "*.xiaohongshu.com"
   - "*.kuaibocaiji.com"
   - "*.szjal.cn"
+  - "*.baidupcs.com"
