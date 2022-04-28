@@ -86,3 +86,4 @@ bypass:
   - "*.kuaibocaiji.com"
   - "*.szjal.cn"
   - "*.baidupcs.com"
+  - "*.cgmodel.com"
