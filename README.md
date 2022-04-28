@@ -87,3 +87,5 @@ bypass:
   - "*.szjal.cn"
   - "*.baidupcs.com"
   - "*.cgmodel.com"
+  - "*.bdxiguaimg.com"
+  - "*.bdxiguastatic.com"
