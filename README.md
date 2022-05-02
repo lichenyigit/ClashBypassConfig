@@ -89,3 +89,5 @@ bypass:
   - "*.cgmodel.com"
   - "*.bdxiguaimg.com"
   - "*.bdxiguastatic.com"
+  - "*.zcool.com.cn"
+  
