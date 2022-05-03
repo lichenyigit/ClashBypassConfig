@@ -90,4 +90,4 @@ bypass:
   - "*.bdxiguaimg.com"
   - "*.bdxiguastatic.com"
   - "*.zcool.com.cn"
-  
+  - "*.douyin.com"
