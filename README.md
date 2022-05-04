@@ -91,3 +91,5 @@ bypass:
   - "*.bdxiguastatic.com"
   - "*.zcool.com.cn"
   - "*.douyin.com"
+  - "*.alicdn.com"
+  - "*.youku.com"
