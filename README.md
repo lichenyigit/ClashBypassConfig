@@ -93,3 +93,6 @@ bypass:
   - "*.douyin.com"
   - "*.alicdn.com"
   - "*.youku.com"
+  - "*.alibaba.com"
+  - "*.ykimg.com"
+  
