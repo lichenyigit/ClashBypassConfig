@@ -95,4 +95,4 @@ bypass:
   - "*.youku.com"
   - "*.alibaba.com"
   - "*.ykimg.com"
-  
+  - "*.kugou.com"
