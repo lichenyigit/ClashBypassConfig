@@ -96,3 +96,4 @@ bypass:
   - "*.alibaba.com"
   - "*.ykimg.com"
   - "*.kugou.com"
+  -- "*.pttplay.cc"
