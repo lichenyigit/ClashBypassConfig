@@ -97,3 +97,4 @@ bypass:
   - "*.ykimg.com"
   - "*.kugou.com"
   - "*.pttplay.cc"
+  - "*.toolight.cn"
