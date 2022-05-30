@@ -98,3 +98,4 @@ bypass:
   - "*.kugou.com"
   - "*.pttplay.cc"
   - "*.toolight.cn"
+  - "*.cctv.com"
