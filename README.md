@@ -43,7 +43,7 @@ bypass:
   - "*.aliyun.com"
   - "*.cnblogs.com"
   - "*.csdn.net"
-  - "*.notion.so"
+  # - "*.notion.so"
   - "*.office365.com"
   - "*.google.cn"
   - "*.url.cn"
