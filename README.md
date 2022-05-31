@@ -31,6 +31,7 @@ bypass:
   - "*.zhihu.com"
   - "*.weibo.com"
   - "*.weixin.com"
+  - "*.weixinbridge.com"
   - "*.github.com"
   - "*.douyin.com"
   - "*.taobao.com"
