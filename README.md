@@ -101,4 +101,5 @@ bypass:
   - "*.toolight.cn"
   - "*.cctv.com"
   - "*.qiqiuyun.net"
+  - "*.edusoho.cn"
   - "*.cdn20.com"
