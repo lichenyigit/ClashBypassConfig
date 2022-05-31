@@ -103,3 +103,5 @@ bypass:
   - "*.qiqiuyun.net"
   - "*.edusoho.cn"
   - "*.cdn20.com"
+  - "*.zijieapi.com"
+  - "*.snssdk.com"
