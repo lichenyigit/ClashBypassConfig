@@ -105,3 +105,4 @@ bypass:
   - "*.cdn20.com"
   - "*.zijieapi.com"
   - "*.snssdk.com"
+  - "*.bytedance.com"
