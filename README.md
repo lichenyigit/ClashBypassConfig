@@ -25,6 +25,7 @@ bypass:
   - "*.baidu.com"
   - "*.ixigua.com"
   - "*.toutiao.com"
+  - "*.toutiaoimg.com"
   - "*.iqiyi.com"
   - "*.qq.com"
   - "*.zhihu.com"
@@ -99,3 +100,5 @@ bypass:
   - "*.pttplay.cc"
   - "*.toolight.cn"
   - "*.cctv.com"
+  - "*.qiqiuyun.net"
+  - "*.cdn20.com"
