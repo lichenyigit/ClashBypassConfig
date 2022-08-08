@@ -91,6 +91,7 @@ bypass:
   - "*.cgmodel.com"
   - "*.bdxiguaimg.com"
   - "*.bdxiguastatic.com"
+  - "*.sourcemap-ixigua.com"
   - "*.zcool.com.cn"
   - "*.douyin.com"
   - "*.alicdn.com"
