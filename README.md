@@ -108,3 +108,5 @@ bypass:
   - "*.zijieapi.com"
   - "*.snssdk.com"
   - "*.bytedance.com"
+  - "*.ghlearning.com/"
+  - "hnzj.user.ghlearning.com"
