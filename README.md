@@ -113,3 +113,4 @@ bypass:
   - "hnzj.user.ghlearning.com"
   - "*.tianyancha.com" #天眼查
   - "*.qcc.com" #企查查
+  - "*.videocc.net" #不知名域名
