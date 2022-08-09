@@ -1,6 +1,6 @@
 # ClashBypassConfig  持续更新 在编辑状态下，复制全部内容即可使用
 # Clash 过滤白名单
-# 项目是公开的，大家都可以添加国内相关过滤地址，有问题可以通过Issues或者邮箱(lichenyiwin@Outlook.com)联系到我
+# 项目是公开的，大家都可以添加国内相关过滤地址，有问题可以通过Issues或者邮箱(lichenyiwin@Outlook.com)进行沟通
 bypass:
   - localhost
   - 127.*
