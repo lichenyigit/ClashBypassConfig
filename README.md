@@ -111,3 +111,5 @@ bypass:
   - "*.bytedance.com"
   - "*.ghlearning.com"
   - "hnzj.user.ghlearning.com"
+  - "*.tianyancha.com" #天眼查
+  - "*.qcc.com" #企查查
