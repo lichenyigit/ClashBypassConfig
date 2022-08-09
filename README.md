@@ -114,3 +114,4 @@ bypass:
   - "*.tianyancha.com" #天眼查
   - "*.qcc.com" #企查查
   - "*.videocc.net" #不知名域名
+  - "*.365yg.com" #西瓜视频
